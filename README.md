@@ -10,7 +10,7 @@ Umiejętności nabyte, dzięki zadaniu:\
 ### Instalacja nowego frameworku
 
 ```python
-& pip install robotframework
+pip install robotframework
 ```
 
 W projekcie w Pycharmie:
